@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @DasBander
+- 👋 Hi, I’m @DasBander aka Marc
 - 👀 I’m interested in Game Development and App Development.
-- 📫 How to reach me at marcfraedrich@finalspark.io
+- 📫 How to reach me? 
+-  marcfraedrich@finalspark.io
 
