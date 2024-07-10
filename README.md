@@ -6,3 +6,4 @@
 
 ![Banders Stats](https://github-readme-stats.vercel.app/api?username=DasBander)
 
+[![Banders Most Used Langs](https://github-readme-stats.vercel.app/api/wakatime?username=DasBander)](https://github.com/anuraghazra/github-readme-stats)
